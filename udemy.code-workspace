@@ -5,7 +5,8 @@
 			"name": "04-DRF-LEVEL-2 -- quotes",
 		},
 		{
-			"path": "."
+			"path": "./FINAL_PROJECT/qnaproject",
+			"name": "FINAL_PROJECT -- qnaproject"
 		}
 	],
 	"settings": {}
